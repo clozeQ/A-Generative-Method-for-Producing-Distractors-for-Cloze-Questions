@@ -23,7 +23,7 @@ result={
       }
 ```
 
-# distractor generator response data structure
+# Data structure of cloze question
 
       {"type": "cloze",
        "question":[{"answer":"abnormal white blood cells",
