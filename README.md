@@ -1,9 +1,9 @@
 # A-Generative-Method-for-Producing-Distractors-for-Cloze-Questions
 
-# API url:
-http://173.48.132.117:8633/api/question-generation
+# Web API for generating distractors:
+URL: http://173.48.132.117:8633/api/question-generation
 
-# Post data structure:
+# Example post request:
 
 
 ```javascript
