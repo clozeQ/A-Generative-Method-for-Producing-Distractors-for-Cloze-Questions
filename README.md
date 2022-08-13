@@ -12,7 +12,7 @@ data={
       'text':"<p>Virchow was the first scientist to discover that leukiemia is caused by rapid production of abnormal white blood cells.</p>",
       'question_type': ['cloze'] }
 ```
-each sentence used for generate cloze question should be labled with #<p>#</p>
+each sentence used for generate cloze question should be labled with "<p></p>" tag
 # Returned data structure:
 
 
