@@ -1,7 +1,7 @@
 # A-Generative-Method-for-Producing-Distractors-for-Cloze-Questions
 
 # Web API for generating distractors:
-URL: http://173.48.132.117:8633/api/question-generation
+URL: http://wangserver.ddns.net:8633/api/question-generation
 
 # Example post request:
 
